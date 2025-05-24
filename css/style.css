@@ -49,6 +49,7 @@ main {
   flex-direction: column;
   align-items: center;
   font-weight: 200;
+  text-align: center;
 }
 
 .hero-text {
